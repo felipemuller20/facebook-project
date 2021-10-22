@@ -31,5 +31,5 @@ Além disso, neste projeto foi utilizado o ESLint, uma ferramenta para identific
 
 # Autores
 
-- [Felipe Muller](https://www.linkedin.com/in/felipeavmuller/)
-- [Bruno Mendes](https://www.linkedin.com/in/bruno-s-mendes/)
+- [Felipe Muller](https://github.com/felipemuller20)
+- [Bruno Mendes](https://github.com/bruno-s-mendes)

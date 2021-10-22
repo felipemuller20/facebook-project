@@ -1,16 +1,16 @@
-# Boas vindas ao repositório do projeto Facebook SignUp!
+# ✌️ Boas vindas ao repositório do projeto Facebook SignUp!
 
 Este projeto é o desenvolvimento da página inicial do Facebook. O objetivo deste projeto foi treinar meus conhecimentos em JavaScript, HTML e CSS.
 
 ---
 
-# Visualização
+# 👀 Visualização
 
 O deploy deste projeto foi realizado via GitHub Pages e você pode acessá-lo através [deste link](https://felipemuller20.github.io/facebook-signup-project/).
 
 ---
 
-# Tecnologias utilizadas
+# ⚛️ Tecnologias utilizadas
 
 - HTML
 - CSS
@@ -19,7 +19,7 @@ O deploy deste projeto foi realizado via GitHub Pages e você pode acessá-lo at
 
 ---
 
-# Habilidades desenvolvidas
+# ✍️ Habilidades desenvolvidas
 
 - Criar formulários em HTML;
 - Utilizar CSS Flexbox para criar layouts flexíveis;
@@ -29,7 +29,7 @@ Além disso, neste projeto foi utilizado o ESLint, uma ferramenta para identific
 
 ---
 
-# Autores
+# 👥 Autores
 
 - [Felipe Muller](https://github.com/felipemuller20)
 - [Bruno Mendes](https://github.com/bruno-s-mendes)

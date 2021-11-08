@@ -6,7 +6,7 @@ Este projeto é o desenvolvimento da página inicial do Facebook. O objetivo des
 
 # 👀 Visualização
 
-O deploy deste projeto foi realizado via GitHub Pages e você pode acessá-lo através [deste link](https://felipemuller20.github.io/facebook-signup-project/).
+O deploy deste projeto foi realizado via GitHub Pages e você pode acessá-lo através [deste link](https://felipemuller20.github.io/facebook-signup/).
 
 ---
 
